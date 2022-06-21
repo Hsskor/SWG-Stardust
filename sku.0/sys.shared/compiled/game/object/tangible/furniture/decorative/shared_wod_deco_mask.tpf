@@ -1,0 +1,10 @@
+@base object/tangible/furniture/base/shared_furniture_base.iff
+
+@class tangible_object_template 10
+
+
+@class object_template 10
+
+objectName = "frn_n" "wod_deco_mask_n"
+detailedDescription = "frn_d" "wod_deco_mask_d"
+appearanceFilename = "appearance/frn_all_sing_mt_clan_mask_s01.apt"
