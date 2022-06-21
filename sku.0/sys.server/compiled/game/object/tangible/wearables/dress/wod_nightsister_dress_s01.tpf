@@ -1,0 +1,8 @@
+@base object/tangible/wearables/base/base_skirt.iff
+
+@class tangible_object_template 4
+
+
+@class object_template 11
+
+sharedTemplate = "object/tangible/wearables/dress/shared_wod_nightsister_dress_s01.iff"

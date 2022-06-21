@@ -1,0 +1,19 @@
+@base object/building/base/shared_base_player_building.iff
+
+@class building_object_template 1
+
+
+@class tangible_object_template 5
+
+structureFootprintFileName = "footprint/building/player/shared_player_house_sm_hut.sfp"
+
+@class object_template 6
+
+clearFloraRadius = 36
+
+objectName = "building_name" "sm_hut"
+detailedDescription = "building_detail" "sm_hut"
+lookAtText = "building_lookat" "sm_hut"
+
+portalLayoutFilename = "appearance/ply_all_dath_mtn_clan_hut.pob"
+clientDataFile = "clientdata/building/shared_player_house_tatooine_medium_style_01.cdf"

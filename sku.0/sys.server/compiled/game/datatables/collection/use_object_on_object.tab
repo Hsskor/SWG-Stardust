@@ -1,0 +1,3 @@
+objectKey	collectionName	handleTarget	questRequired	questName	taskName	targetContainedScript	targetCreature	targetEffect
+s[unique]	s	s	i[0]	s	s	s	s	s
+nym_themepark_miner_dna	nyms_miner_dna	incapacitateSelf	1	u16_nym_themepark_miner_dna_collection	extractMinerDNA	theme_park.nym.mining_cave	u13_nym_enraged_miner	appearance/pt_heal_prof_medic_1.prt
