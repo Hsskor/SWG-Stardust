@@ -1,0 +1,17 @@
+@base object/building/base/shared_base_player_building.iff
+
+@class building_object_template 1
+
+
+@class tangible_object_template 10
+
+structureFootprintFileName = "footprint/building/player/shared_player_house_ns_hut.sfp"
+
+@class object_template 10
+
+objectName = "building_name" "ns_hut"
+detailedDescription = "building_detail" "ns_hut"
+lookAtText = "building_lookat" "ns_hut"
+
+portalLayoutFilename = "appearance/ply_all_dath_mtn_clan_hut.pob"
+clientDataFile = "clientdata/building/shared_player_house_tatooine_medium_style_01.cdf"
